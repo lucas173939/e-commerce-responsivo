@@ -25,11 +25,3 @@ git remote add origin URL_DO_SEU_REPOSITORIO
 git push -u origin main
 ```
 
-## Deploy sugerido
-Vercel ou Netlify.
-
-## Diferenciais para recrutadores
-- Interface responsiva
-- Código organizado
-- Fluxo real de usuário
-- README profissional
